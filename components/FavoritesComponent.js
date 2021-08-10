@@ -54,7 +54,7 @@ class Favorites extends Component {
                                 )
                             }
                         >
-                        <Text style={styles.deleteText}>Delete</Text>
+                            <Text style={styles.deleteText}>Delete</Text>
                         </TouchableOpacity>
                     </View>
 
